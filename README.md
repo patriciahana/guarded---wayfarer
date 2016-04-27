@@ -92,9 +92,6 @@ while True:
  + Team 
  + patricia hanna
  + andrina el chami
- + nancy abdal
- + lina khalil
  + georgia nemri
- + clara wehbe
- + elissa bou aoun 
+  + elissa bou aoun 
  + sarah abou jamra
