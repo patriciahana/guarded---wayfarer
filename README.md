@@ -93,5 +93,5 @@ while True:
  + patricia hanna
  + andrina el chami
  + georgia nemri
-  + elissa bou aoun 
+ + elissa bou aoun 
  + sarah abou jamra
