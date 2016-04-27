@@ -1,5 +1,17 @@
 # guarded---wayfarer
 My Amazing Project-IEA Raspberry Pi 2016 Competition Entry
+# Description
+Lycée Laure Mougayzel Team has developed a project that aims at assisting and helping children, adults, and the elderly as they walk down the street, in other words, any person who commutes by foot, uses public transport or travels by car on a daily basis.
+Thepurpose of this project is to raise awareness on road safety issuesamong pedestrians, commuters and drivers.“GuardedWayfarer” will securethe full safety of people on the roads; it compels them to abide by the law and protects them from road accidents and hazards such as road injuriesand fatalities. 
+Our project consists of the following:
+1-APibrellaconnected to our Raspberry Pi to set off the alarm
+2-A sensor thatoperates as motion detector to sense every moving vehicle. We also used five LEDs: three for the carsfor the purpose of the traffic lights and two for pedestrians. 
+So how does it work? 
+ “Guarded Wayfarer” focuses on two major focal points: the sensor and the alarm.
+As soon as the traffic light is red, the pedestrians’ light automatically turns green.In the meantime, the alarm immediately operates. Meanwhile, in case a car runs the red light by almost 50 centimeters further, the alarm goes off.
+
+
+Note: “Guarded Wayfarer” is the name of the project
 
 import RPi.GPIO as GPIO
 import pibrella
